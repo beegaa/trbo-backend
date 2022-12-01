@@ -25,7 +25,7 @@
         "php": "^7.4 || ^8.0",
         "ext-json": "*",
         "illuminate/database": "^8.83",
-        "lulco/phoenix": "^2.2",
+        "lulco/phoenix": "^2.3",
         "mark-gerarts/auto-mapper-plus": "^1.3",
         "monolog/monolog": "^2.5",
         "php-di/php-di": "^6.4",
